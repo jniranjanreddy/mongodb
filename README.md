@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=8eJJe4Slnik&t=5s
 ![image](https://github.com/user-attachments/assets/09ae3cc2-7ee7-4ca2-b170-466a36ffb0af)
 ![image](https://github.com/user-attachments/assets/9626b1c4-f5b2-473a-b3ed-a5946eba248f)
 
+## Studio 3T - https://www.youtube.com/watch?v=UJ_hiBLlhV4&list=PLRTey0Iqj9jjhDtF0hwDNQmRkuIwA1JXp
 
 
 ```import pickle
