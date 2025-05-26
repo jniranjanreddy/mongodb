@@ -46,3 +46,4 @@ if documents:
     collection.insert_many(documents)
     print("Restore completed successfully.")
 ```
+## use db_1  # id db doesn't exist, it will create
