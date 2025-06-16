@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  mongodbdev:
+    image: mongo:4.0
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: devops
+      MONGO_INITDB_ROOT_PASSWORD: password
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_dev_1:/data/db
+
+  mongodbqa:
+    image: mongo:4.0
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: devops
+      MONGO_INITDB_ROOT_PASSWORD: password
+    ports:
+      - "27018:27017"
+    volumes:
+      - mongodb_qa_1:/data/db
+
+
+volumes:
+  mongodb_dev_1:
+  mongodb_qa_1:
