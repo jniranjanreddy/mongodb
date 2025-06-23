@@ -48,3 +48,6 @@ if documents:
     print("Restore completed successfully.")
 ```
 ## use db_1  # id db doesn't exist, it will create
+
+![image](https://github.com/user-attachments/assets/54ffc81d-d313-4815-8c9d-fcc50b2f19c0)
+
